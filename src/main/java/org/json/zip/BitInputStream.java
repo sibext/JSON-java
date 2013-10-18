@@ -33,7 +33,7 @@ import java.io.InputStream;
  * @version 2013-04-18
  *
  */
-public class BitInputStream implements BitReader {
+public class BitInputStream implements org.json.zip.BitReader {
     /**
      * 2^n - 1
      */
